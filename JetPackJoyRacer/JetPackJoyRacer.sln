@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{A132A371-18F8-B52A-A855-F522D399A176}") = "JetPackJoyRacer", "Assembly-CSharp.csproj", "{6A79A6D6-D6E5-808B-3A0A-AEB30ECA91B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{6A79A6D6-D6E5-808B-3A0A-AEB30ECA91B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A79A6D6-D6E5-808B-3A0A-AEB30ECA91B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A79A6D6-D6E5-808B-3A0A-AEB30ECA91B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A79A6D6-D6E5-808B-3A0A-AEB30ECA91B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
